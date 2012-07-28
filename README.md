@@ -1,0 +1,4 @@
+GoldAnkaufTest
+==============
+
+GoldAnkauf
